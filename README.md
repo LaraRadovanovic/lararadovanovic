@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.png" width="100%">
+  <img src="icons/header.png" width="100%">
 </p>
 
 ## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
@@ -43,7 +43,11 @@
   <img src="icons/linkedin.png" width="40" style="margin: 5px;" alt="LinkedIn"/>
 </a>
 
-
+<br>
+<br>
+<p align="center">
+  <img src="icons/footer.png" width="100%">
+</p>
 
 <!--
 **LaraRadovanovic/lararadovanovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
