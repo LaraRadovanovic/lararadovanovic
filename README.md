@@ -16,12 +16,12 @@
   <img src="icons/C.png" width="40" style="margin: 5px;" title="C"/>
   <img src="icons/C++.png" width="40" style="margin: 5px;" title="C++"/>
   <img src="icons/Csharp.png" width="40" style="margin: 5px;" title="C#"/>
-  <img src="icons/git.png" width="40" style="margin: 5px;" title="Git"/>
   <img src="icons/VSCode.png" width="40" style="margin: 5px;" title="VS Code"/>
   <img src="icons/VS.png" width="40" style="margin: 5px;" title="Visual Studio"/>
   <img src="icons/burpsuite.png" width="40" style="margin: 5px;" title="Burp Suite"/>
   <img src="icons/kalilinux.png" width="40" style="margin: 5px;" title="Kali Linux"/>
   <img src="icons/linux.gif" width="40" style="margin: 5px;" title="Linux"/>
+  <img src="icons/git.png" width="40" style="margin: 5px;" title="Git"/>
 </p>
 
 ## 😶‍🌫️ Networking
