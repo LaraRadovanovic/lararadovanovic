@@ -9,7 +9,7 @@
 
 😎 Outside the tech world, I enjoy crocheting, cooking, and hanging out with friends.
 
-## 🖥️ Languages and Tools
+## 🖥️ Languages & Tools
 <p>
   <img src="icons/python.png" width="40" style="margin: 5px;" alt="Python"/>
   <img src="icons/java.gif" width="40" style="margin: 5px;" alt="Java"/>
@@ -24,13 +24,17 @@
   <img src="icons/linux.gif" width="40" style="margin: 5px;" alt="Linux"/>
 </p>
 
+## 😶‍🌫️ Networking
+- I am currently looking for a Summer 2026 internship
+- I am also looking to collaborate on projects
+- Connect with me down below!
 
 ## 🔭 What I'm Working On
 - CompTIA Security+ 701 Certification
 - Home Lab
 
-## Connect with Me!
-- 
+## 📲🤙 Connect with Me!
+- LinkedIn: https://www.linkedin.com/in/lara-radovanovic/
 
 
 
