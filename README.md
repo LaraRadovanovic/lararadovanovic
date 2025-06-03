@@ -11,17 +11,17 @@
 
 ## 🖥️ Languages & Tools
 <p>
-  <img src="icons/python.png" width="40" style="margin: 5px;" alt="Python"/>
-  <img src="icons/java.gif" width="40" style="margin: 5px;" alt="Java"/>
-  <img src="icons/C.png" width="40" style="margin: 5px;" alt="C"/>
-  <img src="icons/C++.png" width="40" style="margin: 5px;" alt="C++"/>
-  <img src="icons/Csharp.png" width="40" style="margin: 5px;" alt="C#"/>
-  <img src="icons/git.png" width="40" style="margin: 5px;" alt="Git"/>
-  <img src="icons/VSCode.png" width="40" style="margin: 5px;" alt="VS Code"/>
-  <img src="icons/VS.png" width="40" style="margin: 5px;" alt="Visual Studio"/>
-  <img src="icons/burpsuite.png" width="40" style="margin: 5px;" alt="Burp Suite"/>
-  <img src="icons/kalilinux.png" width="40" style="margin: 5px;" alt="Kali Linux"/>
-  <img src="icons/linux.gif" width="40" style="margin: 5px;" alt="Linux"/>
+  <img src="icons/python.png" width="40" style="margin: 5px;" title="Python"/>
+  <img src="icons/java.gif" width="40" style="margin: 5px;" title="Java"/>
+  <img src="icons/C.png" width="40" style="margin: 5px;" title="C"/>
+  <img src="icons/C++.png" width="40" style="margin: 5px;" title="C++"/>
+  <img src="icons/Csharp.png" width="40" style="margin: 5px;" title="C#"/>
+  <img src="icons/git.png" width="40" style="margin: 5px;" title="Git"/>
+  <img src="icons/VSCode.png" width="40" style="margin: 5px;" title="VS Code"/>
+  <img src="icons/VS.png" width="40" style="margin: 5px;" title="Visual Studio"/>
+  <img src="icons/burpsuite.png" width="40" style="margin: 5px;" title="Burp Suite"/>
+  <img src="icons/kalilinux.png" width="40" style="margin: 5px;" title="Kali Linux"/>
+  <img src="icons/linux.gif" width="40" style="margin: 5px;" title="Linux"/>
 </p>
 
 ## 😶‍🌫️ Networking
