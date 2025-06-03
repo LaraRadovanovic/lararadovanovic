@@ -4,7 +4,13 @@
 
 - I am Lara Radovanovic, a **Cybersecurity** graduate student studying at the University of South Florida! 
 - I am currently a SOC Analyst Intern for CyberFlorida! 
-- I have previously worked as a R&D Intern for Sandia National Laboratories!
+- I have previously worked as a R&D Intern for Sandia National Laboratories
+
+😎 Outside the tech world, I enjoy crocheting, cooking, and hanging out with friends.
+
+## 🛠️ Skills
+
+
 
 <!--
 **LaraRadovanovic/lararadovanovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
