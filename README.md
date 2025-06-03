@@ -34,7 +34,7 @@
 - Home Lab
 
 ## 📲🤙 Connect with Me!
-<a href="https://www.linkedin.com/in/lararadovanovic/" target="_blank">
+<a href="https://www.linkedin.com/in/lara-radovanovic/" target="_blank">
   <img src="icons/linkedin.png" width="40" style="margin: 5px;" alt="LinkedIn"/>
 </a>
 
