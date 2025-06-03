@@ -19,6 +19,7 @@
   <img src="icons/VSCode.png" width="40" style="margin: 5px;" title="VS Code"/>
   <img src="icons/VS.png" width="40" style="margin: 5px;" title="Visual Studio"/>
   <img src="icons/burpsuite.png" width="40" style="margin: 5px;" title="Burp Suite"/>
+  <img src="icons/nmap.png" width="40" style="margin: 5px;" title="Nmap"/>
   <img src="icons/kalilinux.png" width="40" style="margin: 5px;" title="Kali Linux"/>
   <img src="icons/linux.gif" width="40" style="margin: 5px;" title="Linux"/>
   <img src="icons/git.png" width="40" style="margin: 5px;" title="Git"/>
