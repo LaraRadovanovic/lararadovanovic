@@ -5,10 +5,18 @@
 - I am Lara Radovanovic, a **Cybersecurity** graduate student studying at the University of South Florida! 
 - I am currently a SOC Analyst Intern for CyberFlorida! 
 - I have previously worked as a R&D Intern for Sandia National Laboratories
+- NSF SFS Scholar
 
 😎 Outside the tech world, I enjoy crocheting, cooking, and hanging out with friends.
 
-## 🛠️ Skills
+## 🖥️ Languages and Tools
+
+## 🔭 What I'm Working On
+- CompTIA Security+ 701 Certification
+- Home Lab
+
+## Connect with Me!
+- 
 
 
 
